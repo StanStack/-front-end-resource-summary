@@ -10,6 +10,7 @@
 + [git命令行在线入门练习](http://learngitbranching.js.org/)
 + [git牛人教学](https://classroom.udacity.com/courses/ud775/lessons/3105028581/concepts/30736788880923#)
 + [github客户端教程](http://book.haoduoshipin.com/gitbeijing/) *慕课上有对应的课程*
++ [github客户端下载](http://download.csdn.net/user/devsplash)
 
 + [css样式在线测试预览](http://www.cssmatic.com/border-radius)
 + [在线颜色测试预览](http://tools.medialab.sciences-po.fr/iwanthue/index.php)
