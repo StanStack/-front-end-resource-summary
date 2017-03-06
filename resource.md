@@ -3,6 +3,8 @@
 + [脚本之家 vue.js学习教程](http://www.jb51.net/Special/874.htm)  *小例子比较多适合练手*
 + [VUE的学习资源](http://pan.baidu.com/s/1slpnpkL?errno=0&errmsg=Auth%20Login%20Sucess&&bduss=&ssnerror=0&adapt=pc&fr=ftw#list/path=%2F)
 
++ [js面向对象Udacity学习时评](https://classroom.udacity.com/courses/ud015/lessons/2794468541/concepts/29567288260923)
+
 + [webpack入门](http://www.jianshu.com/p/42e11515c10f)  *我还没用过，不知道好不好~\(≧▽≦)/~*
 
 + [w3c 响应式专题](http://www.w3cplus.com/responsive?page=4)
@@ -15,6 +17,7 @@
 + [css样式在线测试预览](http://www.cssmatic.com/border-radius)
 + [在线颜色测试预览](http://tools.medialab.sciences-po.fr/iwanthue/index.php)
 
++ [正则表达式基础入门文档](http://deerchao.net/tutorials/regex/regex-1.htm) 
 + [正则表达式在线解析](https://regexper.com/)
 + [base64在线解码编码](http://base64.xpcha.com/)
 
