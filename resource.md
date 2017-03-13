@@ -6,7 +6,7 @@
 + [js面向对象Udacity学习时评](https://classroom.udacity.com/courses/ud015/lessons/2794468541/concepts/29567288260923)
 
 + [webpack入门](http://www.jianshu.com/p/42e11515c10f)  *我还没用过，不知道好不好~\(≧▽≦)/~*
-
++ [webpack 简单的轮播实现](http://www.cnblogs.com/souvenir/p/5012552.html) 我觉得写的很基础，讲的很清楚，超级棒棒哦
 + [w3c 响应式专题](http://www.w3cplus.com/responsive?page=4)
 
 + [git命令行在线入门练习](http://learngitbranching.js.org/)
