@@ -29,4 +29,6 @@
 + [比我完整牛逼华丽整齐的前端资源整理](https://segmentfault.com/a/1190000004978770)
 + [比我完整牛逼华丽整齐的前端资源整理](https://github.com/vhf/free-programming-books/blob/master/free-programming-books-zh.md)
 
+
 + [gis资源](https://zhuanlan.zhihu.com/p/22385406?refer=viseye)
++ [知乎gis资源](http://zhihu.esrichina.com.cn/question/12709)
