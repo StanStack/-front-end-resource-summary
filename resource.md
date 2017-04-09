@@ -5,7 +5,7 @@
 
 + [js面向对象Udacity学习时评](https://classroom.udacity.com/courses/ud015/lessons/2794468541/concepts/29567288260923)
 
-+ [webpack入门](http://www.jianshu.com/p/42e11515c10f)  *我还没用过，不知道好不好~\(≧▽≦)/~*
++ [webpack入门](http://www.jianshu.com/p/42e11515c10f)  *大家都写的差不多，都是入门啦~\(≧▽≦)/~*
 + [webpack 简单的轮播实现](http://www.cnblogs.com/souvenir/p/5012552.html) 我觉得写的很基础，讲的很清楚，超级棒棒哦
 + [w3c 响应式专题](http://www.w3cplus.com/responsive?page=4)
 
@@ -32,3 +32,4 @@
 
 + [gis资源](https://zhuanlan.zhihu.com/p/22385406?refer=viseye)
 + [知乎gis资源](http://zhihu.esrichina.com.cn/question/12709)
++ [gis软件资源网站](https://www.ixxin.cn/software.html)
